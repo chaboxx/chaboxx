@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Rodrigo
 
-<!--
-**chaboxx/chaboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador interesado en IA, backend, cloud y automatización.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Trabajo con Python, JavaScript/TypeScript y Azure
+- Me gusta construir herramientas útiles y simples
+- Actualmente aprendiendo más sobre agentes, LLMs y DevOps
+
+## Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+## Contacto
+
+- LinkedIn: https://linkedin.com/in/tu-perfil
+- Portfolio: https://tu-web.com
