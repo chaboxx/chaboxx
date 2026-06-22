@@ -1,64 +1,88 @@
-<h1 align="center">Hi, I'm Rodrigo</h1>
+# Hi, I’m Rodrigo 👋
+
+### **Backend & Cloud Developer**
+*Focused on Microservices, AI-powered automation, and scalable systems.*
+
+---
+
+## 🚀 About Me
+
+I’m a software developer focused on building practical, scalable, and useful solutions with backend technologies, cloud platforms, automation, and AI. I enjoy designing systems that solve real problems: from APIs and internal tools to microservices, event-driven architectures, cloud deployments, and intelligent automation.
+
+* 🧠 **AI & Automation:** Interested in AI applied to real products, developer productivity, and workflow automation.
+* ⚙️ **Stack:** Backend-focused developer with experience in Java, TypeScript, Python, and cloud solutions.
+* 📈 **Continuous Learning:** Currently improving my skills in distributed systems, DevOps, agents, LLMs, and cloud-native architectures.
+* 🛠️ **Mindset:** I like turning ideas into functional prototypes, then evolving them into reliable, production-ready systems.
+
+---
+
+## 🛠️ What I Work With
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Java` `TypeScript` `Python` `Go` |
+| **Backend & APIs** | `Spring Boot` `Node.js` `Express` `FastAPI` `REST APIs` `GraphQL` |
+| **Cloud, DevOps & Arch** | `AWS` `Kubernetes` `Terraform` `Docker` `CI/CD Pipelines` `Serverless` |
+| **Data & Messaging** | `PostgreSQL` `MongoDB` `Redis` `Apache Kafka` `RabbitMQ` |
+
+*(Nota: Puedes cambiar las tecnologías exactas en la tabla usando texto o reemplazarlas por Badges de Shields.io)*
+
+---
+
+## 🎯 Current Focus
+
+I’m currently sharpening my skills in:
+* ☁️ **Cloud-native** backend development and production-ready deployments.
+* 🔄 **Microservices** and event-driven architectures using modern design patterns.
+* 🤖 **AI Agents**, LLM integrations, and intelligent workflow automation.
+* ⚡ **Data streaming** with Apache Kafka and real-time backend systems.
+
+---
+
+## 🌟 Featured Areas
+
+### 🏛️ Microservices & Distributed Systems
+Building backend services with authentication, messaging, persistence, observability, and clean architecture principles.
+
+### 🤖 AI + Automation
+Exploring how AI can improve developer workflows, internal tools, productivity, and automated decision-making.
+
+### ☁️ Cloud Engineering
+Working with cloud ecosystems, containers, APIs, serverless services, and robust deployment pipelines.
+
+### 💼 Enterprise Backend
+Designing APIs, integrations, and backend systems with a focus on reliability, maintainability, and real-world business needs.
+
+---
+
+## 💡 Projects I’m Interested In
+
+* 🛠️ AI-powered developer tools and productivity hacks.
+* ⚙️ Backend platforms for internal automation.
+* 📡 Event-driven systems with Kafka.
+* 🔌 APIs that connect business workflows with intelligent automation.
+* 🌐 Open-source backend libraries and tools.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  Developer focused on building useful solutions with AI, backend, cloud, and automation.
-</p>
-
-<p align="center">
-  <a href="https://github.com/chaboxx">
-    <img src="https://komarev.com/ghpvc/?username=chaboxx&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-  <a href="https://github.com/chaboxx?tab=followers">
-    <img src="https://img.shields.io/github/followers/chaboxx?style=flat-square&label=Followers" alt="GitHub followers" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaboxx&show_icons=true&theme=radical" alt="Rodrigo's GitHub stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaboxx&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
 ---
 
-## About Me
+## 🤝 Connect With Me
 
-I enjoy building simple tools, automating workflows, and learning technologies that help solve real problems. Right now, I'm exploring more about agents, LLMs, DevOps, and cloud deployments.
-
-- I work with Python, JavaScript/TypeScript, and Azure.
-- I'm interested in AI applied to products and workflows.
-- I enjoy turning ideas into functional prototypes.
-- I'm always improving my backend, cloud, and automation skills.
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## Current Focus
-
-- AI applied to software development.
-- Automation for repetitive tasks.
-- APIs, backend services, and internal tools.
-- Cloud, DevOps, and deployment best practices.
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaboxx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaboxx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-## Contact
-
-You can find me here:
-
-- GitHub: [@chaboxx](https://github.com/chaboxx)
-- LinkedIn: add your profile here
-- Portfolio: add your website or featured projects here
+* 💼 **LinkedIn:** [Incorporate your profile link here](https://linkedin.com/in/tu-usuario)
+* 🌐 **Portfolio / Blog:** [Your portfolio or featured projects](https://tu-web.com)
+* 📧 **Email:** [tu.correo@email.com](mailto:tu.correo@email.com)
 
 ---
 
 <p align="center">
-  Building, learning, and improving one commit at a time.
+  <b>Building, learning, and improving one commit at a time.</b><br>
+  <sub>Backend • Cloud • AI • Automation • Microservices</sub>
 </p>
