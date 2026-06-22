@@ -22,10 +22,8 @@ I’m a software developer focused on building practical, scalable, and useful s
 | :--- | :--- |
 | **Languages** | `Java` `TypeScript` `Python` `Go` |
 | **Backend & APIs** | `Spring Boot` `Node.js` `Express` `FastAPI` `REST APIs` `GraphQL` |
-| **Cloud, DevOps & Arch** | `AWS` `Kubernetes` `Terraform` `Docker` `CI/CD Pipelines` `Serverless` |
+| **Cloud, DevOps & Arch** | `AWS` `Azure` `Kubernetes` `Terraform` `Docker` `CI/CD Pipelines` `Serverless` |
 | **Data & Messaging** | `PostgreSQL` `MongoDB` `Redis` `Apache Kafka` `RabbitMQ` |
-
-*(Nota: Puedes cambiar las tecnologías exactas en la tabla usando texto o reemplazarlas por Badges de Shields.io)*
 
 ---
 
@@ -76,9 +74,8 @@ Designing APIs, integrations, and backend systems with a focus on reliability, m
 
 ## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** [Incorporate your profile link here](https://linkedin.com/in/tu-usuario)
-* 🌐 **Portfolio / Blog:** [Your portfolio or featured projects](https://tu-web.com)
-* 📧 **Email:** [tu.correo@email.com](mailto:tu.correo@email.com)
+* 💼 **LinkedIn:** [Profile]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/rodrigocuevapastor/))
+* 📧 **Email:** [chaboxx159@gmail.com](mailto:chaboxx159@gmail.com)
 
 ---
 
